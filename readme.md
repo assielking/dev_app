@@ -41,3 +41,6 @@ L'interface utilisateur de l'application a été créée à l'aide de Streamlit,
 ---
 
 N'hésite pas à ajouter plus de détails ou d'informations spécifiques à ton projet. Assure-toi que ce README reflète correctement les fonctionnalités, la structure et les considérations importantes de ton projet de machine learning pour prédire les salaires des développeurs.
+
+
+![Capture d’écran (9)](https://github.com/assielking/dev_app/assets/145512245/f05e69ef-d0b8-4c8d-8477-64b1fa0bf446)
