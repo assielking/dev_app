@@ -34,9 +34,5 @@ L'interface utilisateur de l'application a été créée à l'aide de Streamlit,
 - `model/`: Répertoire contenant le modèle entraîné.
 - `requirements.txt`: Fichier spécifiant les dépendances Python du projet.
 
-## Remarque
-
-**Attention** : Ce modèle est conçu pour être utilisé à des fins de démonstration et de test. Ne l'utilise pas pour des décisions critiques ou des situations en production sans une validation rigoureuse et des ajustements supplémentaires.
-
 
 ![Capture d’écran (9)](https://github.com/assielking/dev_app/assets/145512245/f05e69ef-d0b8-4c8d-8477-64b1fa0bf446)
