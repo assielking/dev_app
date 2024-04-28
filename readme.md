@@ -21,6 +21,7 @@ Ce projet utilise des techniques de machine learning pour créer un modèle pré
 - `model/`: Répertoire contenant le modèle entraîné.
 - `requirements.txt`: Fichier spécifiant les dépendances Python du projet.
 
+
   
 
 
