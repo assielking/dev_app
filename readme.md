@@ -20,14 +20,6 @@ L'interface utilisateur de l'application a été créée à l'aide de Streamlit,
 3. Installe les dépendances en exécutant `pip install -r requirements.txt`.
 4. Lance l'application en exécutant `streamlit run app.py` dans ton terminal.
 
-## Technologies Utilisées
-
-```
-- Python
-- scikit-learn
-- Streamlit
-```
-
 
 ## Structure des Fichiers
 
