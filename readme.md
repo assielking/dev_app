@@ -1,10 +1,9 @@
 # Machine Learning : Prédiction des Salaires des Développeurs Informatiques
 
-Ce projet a été développé pour prédire le salaire annuel des développeurs informatiques dans différents pays, en se basant sur leur profil professionnel.
 
 ## Description du Projet
 
-Ce projet utilise des techniques de machine learning pour créer un modèle prédictif du salaire des développeurs en fonction de divers facteurs tels que le pays, le niveau d'éducation et l'expérience professionnelle. Le modèle a été entraîné sur les données de l'enquête des développeurs de Stack Overflow.
+Ce projet utilise des techniques de machine learning pour créer un modèle prédictif du salaire annuel des développeurs informatiques en fonction de divers facteurs tels que le pays, le niveau d'éducation, le profil et l'expérience professionnelle. Le modèle a été entraîné sur les données de l'enquête des développeurs de Stack Overflow.
 
 ## Fonctionnalités de l'Application
 
@@ -23,9 +22,12 @@ L'interface utilisateur de l'application a été créée à l'aide de Streamlit,
 
 ## Technologies Utilisées
 
+```
 - Python
-- scikit-learn pour le machine learning
-- Streamlit pour l'interface utilisateur interactive
+- scikit-learn
+- Streamlit
+```
+
 
 ## Structure des Fichiers
 
@@ -33,6 +35,8 @@ L'interface utilisateur de l'application a été créée à l'aide de Streamlit,
 - `data/`: Répertoire contenant les données utilisées pour l'entraînement du modèle.
 - `model/`: Répertoire contenant le modèle entraîné.
 - `requirements.txt`: Fichier spécifiant les dépendances Python du projet.
+
+  
 
 
 ![Capture d’écran (9)](https://github.com/assielking/dev_app/assets/145512245/f05e69ef-d0b8-4c8d-8477-64b1fa0bf446)
