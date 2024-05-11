@@ -13,6 +13,7 @@ Lien de la base de données : https://insights.stackoverflow.com/survey choisir 
 2. Clone ce dépôt sur ta machine.
 3. Installe les dépendances en exécutant `pip install -r requirements.txt`.
 4. Lance l'application en exécutant `streamlit run app.py` dans ton terminal.
+5. Pour arreter le serveur `ctrl c` dans ton terminal.
 
 
 ## 
